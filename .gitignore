@@ -1,1 +1,3 @@
 martin.txt
+*.log
+/log

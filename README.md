@@ -8,5 +8,7 @@ This example is to show different parts of the git repository and various comman
 ## Purpose
 This is a purpose ok
 ## Deployment
+This is a deployment
 
 ## How to Contribute
+This is how to contribute

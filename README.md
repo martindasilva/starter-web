@@ -6,7 +6,7 @@ showing how to use Git and Github
 This example is to show different parts of the git repository and various commands using a web project.
 
 ## Purpose
-
+This is a purpose ok
 ## Deployment
 
 ## How to Contribute

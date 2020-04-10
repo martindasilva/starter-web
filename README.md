@@ -11,7 +11,7 @@ This is a purpose ok
 This is a deployment
 
 ## How to Contribute
-This is how to contribute
+Please for this repository and then issue Pull Request for review.
 
 ## Copyright
 
